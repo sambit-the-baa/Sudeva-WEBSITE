@@ -291,7 +291,7 @@ export default function SudevaLanding() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <span className="block text-sm font-medium text-slate-500 mb-2">Solar</span>
-              <h2 className="text-5xl sm:text-6xl lg:text-7xl font-bold leading-tight mb-6">Comprehensive solar solutions for sustainable transformation</h2>
+              <h3 className="text-5xl sm:text-6xl lg:text-7xl font-bold leading-tight mb-6">Comprehensive solar solutions for sustainable transformation</h3>
               <p className="text-slate-600 max-w-3xl mx-auto">Sudeva Engineers provides end-to-end solar services from feasibility to maintenance, ensuring profitable and sustainable solar adoption</p>
             </div>
 
