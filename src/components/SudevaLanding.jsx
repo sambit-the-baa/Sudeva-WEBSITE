@@ -291,7 +291,7 @@ export default function SudevaLanding() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <span className="block text-sm font-medium text-slate-500 mb-2">Solar</span>
-              <h3 className="text-2xl sm:text-5xl lg:text-6xl font-bold leading-tight mb-6">Comprehensive solar solutions for sustainable transformation</h3>
+              <h3 className="text-2xl sm:text-5xl lg:text-6xl font-semibold leading-tight mb-6">Comprehensive solar solutions for sustainable transformation</h3>
               <p className="text-slate-600 max-w-3xl mx-auto">Sudeva Engineers provides end-to-end solar services from feasibility to maintenance, ensuring profitable and sustainable solar adoption</p>
             </div>
 
@@ -330,7 +330,7 @@ export default function SudevaLanding() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <span className="block text-sm font-medium text-slate-500 mb-2">Construction</span>
-              <h2 className="text-5xl sm:text-6xl lg:text-7xl font-bold leading-tight mb-6">Crafting spaces that breathe life and purpose</h2>
+              <h2 className="text-2xl sm:text-5xl lg:text-6xl font-semibold leading-tight mb-6">Crafting spaces that breathe life and purpose</h2>
               <p className="text-slate-600 max-w-3xl mx-auto">From structural construction to POP interiors, Sudeva Engineers combines engineering precision with artistic design</p>
             </div>
 
@@ -369,7 +369,7 @@ export default function SudevaLanding() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <span className="block text-sm font-medium text-slate-500 mb-2">Case Studies</span>
-              <h2 className="text-4xl sm:text-5xl lg:text-6xl font-semibold mb-4">Featured engineering projects</h2>
+              <h2 className="text-2xl sm:text-5xl lg:text-6xl font-semibold leading-tight mb-6">Featured engineering projects</h2>
               <p className="text-slate-600 max-w-3xl mx-auto">
                 Showcasing our commitment to excellence across solar and construction domains.
               </p>
@@ -605,7 +605,7 @@ export default function SudevaLanding() {
                   {newsletterState === "success" && <p className="text-sm text-emerald-300 mt-2">Subscribed successfully!</p>}
                   {newsletterState === "error" && <p className="text-sm text-red-300 mt-2">Please enter a valid email.</p>}
                 </div>
-                <p className="text-sm text-white/60">© 2023 Sudeva Engineers. All rights reserved.</p>
+                <p className="text-sm text-white/60">© 2025 Sudeva Engineers. All rights reserved.</p>
               </div>
 
               {/* Middle Column */}
