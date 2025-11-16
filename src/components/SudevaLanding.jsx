@@ -92,7 +92,7 @@ export default function SudevaLanding() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-4">
               <div className="flex items-center gap-2">
-                <img src="/logo.png" alt="Sudeva Engineers" className="h-32 w-auto" onError={(e) => { e.currentTarget.style.display = 'none'; const s = e.currentTarget.nextSibling; if (s) s.style.display = 'inline-block'; }} />
+                <img src="/images/logo.png" alt="Sudeva Engineers" className="h-32 w-auto" onError={(e) => { e.currentTarget.style.display = 'none'; const s = e.currentTarget.nextSibling; if (s) s.style.display = 'inline-block'; }} />
                 <span className="font-bold text-xl" style={{ display: 'none' }}>SUDEVA ENGINEERS</span>
               </div>
               <nav className="hidden md:flex items-center gap-6 text-sm" aria-label="Main">
@@ -511,7 +511,7 @@ export default function SudevaLanding() {
                   name: "Suresh Yadav",
                   role: "Chairman",
                   description: "Suresh Yadav, serves as the Chairman of Sudeva Engineers, bringing over 25 years of experience in high-end construction and project execution. His leadership anchors the company’s commitment to quality, reliability, and long-term trust..",
-                  img: '/images/Team/Suresh yadav.jpeg'
+                  img: '/images/Team/Suresh Yadav.jpeg'
                 }
               ].map((member, idx) => (
                 <div key={idx} className="bg-slate-50 rounded-lg p-6 border border-slate-200 shadow-sm">
