@@ -277,7 +277,7 @@ export default function SudevaLanding() {
                 <div className="p-6">
                   <h3 className="text-xl font-semibold mb-3">Premium construction and POP finishing</h3>
                   <p className="text-slate-600 mb-4">
-                    Delivering high-quality construction services and specialized Point of Purchase (POP) finishing for commercial and residential spaces.
+                    Delivering high-quality construction services and specialized Plaster of Paris (POP) finishing for commercial and residential spaces.
                   </p>
                   <a href="#contact" className="text-emerald-600 font-medium hover:underline">Learn more &gt;</a>
                 </div>
